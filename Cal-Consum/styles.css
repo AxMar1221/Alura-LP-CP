@@ -1,0 +1,20 @@
+body {
+    background-color: #e4e0e0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #7c7474;
+}
+img {
+    width: 350px;
+    height: 200px;
+}
+p {
+    text-align: justify;
+}
+span {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: #5c5959;
+}
